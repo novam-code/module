@@ -1,0 +1,19 @@
+{
+    "name": "novam-code/module",
+    "description": "Novam Online PHP Framework",
+    "type": "library",
+    "require-dev": {
+
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hilkiah Makemo",
+            "email": "hilkiah.makemo@skywest.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "novam-code/framework": "^1.0"
+    }
+}
